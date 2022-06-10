@@ -2,8 +2,8 @@
 
 # Codeigniter Shield Anti Phishing
 
-**Warning**
-The package is being developed. Please do not use it now.
+> **Warning**
+> The package is being developed. Please do not use it now.
 
 This package helps you to add anti-phishing feature to the official `Shield` package. This package requires the installation of a shield on a Codeigniter project.
 With this package you can allow the user to carefully check the site address once and register a personal signature code if approved. From now on, by entering the site, if user see the registered signature code, user can login the system without any worries.
